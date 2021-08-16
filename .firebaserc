@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "calc-app-react-710bd",
+    "react-calc": "calc-app-react-710bd"
+  },
+  "targets": {}
+}
